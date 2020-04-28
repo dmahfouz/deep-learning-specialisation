@@ -3,6 +3,7 @@ venv/
 
 # Vscode
 .vscode
+.vs
 
 # Jupyter checkpoints
 *.ipynb_checkpoints/
