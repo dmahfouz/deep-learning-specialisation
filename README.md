@@ -35,4 +35,4 @@ Includes content from the following courses (in specialisation)
         - [Convolutional Model: application](./04-convolutional-neural-networks/week-1/Convolution_model_Application_v1a.ipynb)
     - [Week 2](./04-convolutional-neural-networks/week-2/)
         - [`Keras` tutorial - emotion detection](./04-convolutional-neural-networks/week-2/KerasTutorial/Keras_Tutorial_v2a.ipynb)
-        - [Residual Networks]
+        - [Residual Networks](./04-convolutional-neural-networks/week-2/ResNets/Residual_Networks_v2a.ipynb)
